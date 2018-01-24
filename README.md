@@ -5,7 +5,7 @@ La pagina in questione [InnamoratidelSapere.it](http://www.innamoratidelsapere.i
 
 ## Come
 
-Il quiz è scritto in JavaScript e le domande sononello stesso file, cioè in ```funzioni_test.js```.
+Il quiz è scritto in JavaScript e le domande sono nello stesso file, cioè ```funzioni_test.js```.
 
 ## Download
 
