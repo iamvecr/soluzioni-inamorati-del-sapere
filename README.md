@@ -1,7 +1,7 @@
 # Soluzioni "Innamorati Del Sapere"
 Prima di inviare il curriculum a Treccani si necessità di completare un quiz, queste sono tutte le domande con le rispettive soluzioni.
 
-La pagina in questione [InnamoratidelSapere.it](http://www.innamoratidelsapere.it/) ([Pagine Archiviata](https://web.archive.org/web/20180124203457/http://www.innamoratidelsapere.it/)).
+La pagina in questione [InnamoratidelSapere.it](http://www.innamoratidelsapere.it/) ([Pagina Archiviata](https://web.archive.org/web/20180124203457/http://www.innamoratidelsapere.it/)).
 
 ## Come
 
