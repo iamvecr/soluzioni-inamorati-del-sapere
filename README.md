@@ -1,11 +1,11 @@
 # Soluzioni "Innamorati Del Sapere"
-Prima di inviare il curriculum a Treccani si necessità di completare un quiz, queste sono tutte le domande con le rispettive soluzioni.
+Prima di inviare il curriculum a Treccani si necessità completare un quiz, queste sono tutte le domande con le rispettive soluzioni.
 
 La pagina in questione [InnamoratidelSapere.it](http://www.innamoratidelsapere.it/) ([Pagina Archiviata](https://web.archive.org/web/20180124203457/http://www.innamoratidelsapere.it/)).
 
 ## Come
 
-Il quiz è scritto in JavaScript e le domande sono nello stesso file, cioè ```funzioni_test.js```.
+Il quiz è stato scritto in JavaScript e le domande sono presenti nel file sorgente stesso, cioè ```funzioni_test.js```.
 
 ## Download
 
@@ -13,6 +13,6 @@ Tutte le domande e soluzioni sono scaricabili sotto forma di PDF a questo [link]
 
 ## Licenza
 
-[![](https://lh3.googleusercontent.com/wOJaZZBTAUJ2uQRTLJp7yMV2NksqTuAUz1knK0p9BY61qUC3OoS7m73zgPKz8aBHE8CJeXWtd-S6vcNB2NnLZmj-EGVBpQW5gKOcIH2QcsgMAXVmwdEoMZvNI9P1GDh6V-HRYy9w)](https://creativecommons.org/publicdomain/mark/1.0/)
+[![](https://i.creativecommons.org/p/mark/1.0/88x31.png)](https://creativecommons.org/publicdomain/mark/1.0/)
 
 Quest'opera è libera da restrizioni dovute al copyright.
